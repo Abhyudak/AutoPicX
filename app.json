@@ -33,7 +33,7 @@
     },
     "TIME": {
       "description": "After What Time Next Pic To Be Changed Place Time in Seconds Eg- 60 it means 1 minute",
-      "value": "60",
+      "value": "40",
       "required": true
     }
   },
